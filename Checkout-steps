@@ -1,0 +1,5 @@
+if (Shopify.Checkout.step == 'contact_information'){
+  alert('I am on the checkout page!');
+}
+
+REF: https://help.shopify.com/en/themes/development/layouts/checkout
